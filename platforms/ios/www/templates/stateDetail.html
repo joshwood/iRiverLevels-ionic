@@ -1,0 +1,9 @@
+<ion-view title="{{stateName}}">
+  <ion-content class="has-header">
+    <ion-list>
+      <ion-item ng-repeat="river in rivers" href="#/app/states/{{stateId}}/{{river._gage}}">
+        {{river._name}}
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

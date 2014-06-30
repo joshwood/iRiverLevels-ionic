@@ -1,0 +1,205 @@
+2014-05-13 20:06:28.229 HelloCordova[6734:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-13 20:06:28.234 HelloCordova[6734:70b] Unlimited access to network resources
+2014-05-13 20:06:28.246 HelloCordova[6734:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-13 20:06:28.246 HelloCordova[6734:70b] [CDVTimer][statusbar] 0.307024ms
+2014-05-13 20:06:28.247 HelloCordova[6734:70b] [CDVTimer][TotalPluginStartup] 0.611007ms
+2014-05-13 20:06:28.298 HelloCordova[6734:70b] Resetting plugins due to page load.
+2014-05-13 20:06:28.412 HelloCordova[6734:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FF1779F0-9133-4684-91C1-3473824E9D2E/HelloCordova.app/www/index.html#/app/states
+2014-05-13 20:16:31.578 HelloCordova[7102:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-13 20:16:31.586 HelloCordova[7102:70b] Unlimited access to network resources
+2014-05-13 20:16:31.600 HelloCordova[7102:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-13 20:16:31.601 HelloCordova[7102:70b] [CDVTimer][statusbar] 0.406981ms
+2014-05-13 20:16:31.601 HelloCordova[7102:70b] [CDVTimer][TotalPluginStartup] 0.708044ms
+2014-05-13 20:16:31.654 HelloCordova[7102:70b] Resetting plugins due to page load.
+2014-05-13 20:16:31.763 HelloCordova[7102:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FF1779F0-9133-4684-91C1-3473824E9D2E/HelloCordova.app/www/index.html#/app/states
+2014-05-13 20:17:06.597 HelloCordova[7303:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-13 20:17:06.602 HelloCordova[7303:70b] Unlimited access to network resources
+2014-05-13 20:17:06.616 HelloCordova[7303:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-13 20:17:06.616 HelloCordova[7303:70b] [CDVTimer][statusbar] 0.396967ms
+2014-05-13 20:17:06.616 HelloCordova[7303:70b] [CDVTimer][TotalPluginStartup] 0.742018ms
+2014-05-13 20:17:06.679 HelloCordova[7303:70b] Resetting plugins due to page load.
+2014-05-13 20:17:06.794 HelloCordova[7303:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FF1779F0-9133-4684-91C1-3473824E9D2E/HelloCordova.app/www/index.html#/app/states
+2014-05-13 20:18:30.761 HelloCordova[7649:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-13 20:18:30.769 HelloCordova[7649:70b] Unlimited access to network resources
+2014-05-13 20:18:30.782 HelloCordova[7649:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-13 20:18:30.783 HelloCordova[7649:70b] [CDVTimer][statusbar] 0.344992ms
+2014-05-13 20:18:30.783 HelloCordova[7649:70b] [CDVTimer][TotalPluginStartup] 0.630021ms
+2014-05-13 20:18:30.838 HelloCordova[7649:70b] Resetting plugins due to page load.
+2014-05-13 20:18:30.952 HelloCordova[7649:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FF1779F0-9133-4684-91C1-3473824E9D2E/HelloCordova.app/www/index.html#/app/states
+2014-05-13 20:26:39.986 HelloCordova[8148:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-13 20:26:39.991 HelloCordova[8148:70b] Unlimited access to network resources
+2014-05-13 20:26:40.004 HelloCordova[8148:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-13 20:26:40.005 HelloCordova[8148:70b] [CDVTimer][statusbar] 0.361979ms
+2014-05-13 20:26:40.005 HelloCordova[8148:70b] [CDVTimer][TotalPluginStartup] 0.648975ms
+2014-05-13 20:26:40.058 HelloCordova[8148:70b] Resetting plugins due to page load.
+2014-05-13 20:26:40.178 HelloCordova[8148:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FF1779F0-9133-4684-91C1-3473824E9D2E/HelloCordova.app/www/index.html#/app/states
+2014-05-13 20:27:28.677 HelloCordova[8488:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-13 20:27:28.685 HelloCordova[8488:70b] Unlimited access to network resources
+2014-05-13 20:27:28.698 HelloCordova[8488:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-13 20:27:28.698 HelloCordova[8488:70b] [CDVTimer][statusbar] 0.353992ms
+2014-05-13 20:27:28.698 HelloCordova[8488:70b] [CDVTimer][TotalPluginStartup] 0.657022ms
+2014-05-13 20:27:28.758 HelloCordova[8488:70b] Resetting plugins due to page load.
+2014-05-13 20:27:28.875 HelloCordova[8488:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FF1779F0-9133-4684-91C1-3473824E9D2E/HelloCordova.app/www/index.html#/app/states
+2014-05-13 20:31:48.953 iRiverLevels[8864:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-13 20:31:48.958 iRiverLevels[8864:70b] Unlimited access to network resources
+2014-05-13 20:31:48.960 iRiverLevels[8864:70b] Fix applied for database locations?: YES
+2014-05-13 20:31:48.973 iRiverLevels[8864:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-13 20:31:48.973 iRiverLevels[8864:70b] [CDVTimer][statusbar] 0.312984ms
+2014-05-13 20:31:48.973 iRiverLevels[8864:70b] [CDVTimer][TotalPluginStartup] 0.642002ms
+2014-05-13 20:31:49.031 iRiverLevels[8864:70b] Resetting plugins due to page load.
+2014-05-13 20:31:49.143 iRiverLevels[8864:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/3318B336-495E-4C03-AE21-A89F02BF0A54/iRiverLevels.app/www/index.html#/app/states
+2014-05-13 20:33:00.992 ionicRiverLevels[9221:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-13 20:33:00.999 ionicRiverLevels[9221:70b] Unlimited access to network resources
+2014-05-13 20:33:01.001 ionicRiverLevels[9221:70b] Fix applied for database locations?: YES
+2014-05-13 20:33:01.016 ionicRiverLevels[9221:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-13 20:33:01.017 ionicRiverLevels[9221:70b] [CDVTimer][statusbar] 0.419021ms
+2014-05-13 20:33:01.017 ionicRiverLevels[9221:70b] [CDVTimer][TotalPluginStartup] 0.819027ms
+2014-05-13 20:33:01.095 ionicRiverLevels[9221:70b] Resetting plugins due to page load.
+2014-05-13 20:33:01.215 ionicRiverLevels[9221:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-13 20:46:46.643 ionicRiverLevels[9582:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-13 20:46:46.648 ionicRiverLevels[9582:70b] Unlimited access to network resources
+2014-05-13 20:46:46.666 ionicRiverLevels[9582:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-13 20:46:46.666 ionicRiverLevels[9582:70b] [CDVTimer][statusbar] 0.385046ms
+2014-05-13 20:46:46.667 ionicRiverLevels[9582:70b] [CDVTimer][TotalPluginStartup] 0.681043ms
+2014-05-13 20:46:46.718 ionicRiverLevels[9582:70b] Resetting plugins due to page load.
+2014-05-13 20:46:46.834 ionicRiverLevels[9582:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-14 10:11:29.494 ionicRiverLevels[10200:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 10:11:29.502 ionicRiverLevels[10200:70b] Unlimited access to network resources
+2014-05-14 10:11:29.518 ionicRiverLevels[10200:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-14 10:11:29.519 ionicRiverLevels[10200:70b] [CDVTimer][statusbar] 0.500977ms
+2014-05-14 10:11:29.519 ionicRiverLevels[10200:70b] [CDVTimer][TotalPluginStartup] 1.007020ms
+2014-05-14 10:11:29.597 ionicRiverLevels[10200:70b] Resetting plugins due to page load.
+2014-05-14 10:11:29.746 ionicRiverLevels[10200:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-14 10:13:54.909 ionicRiverLevels[10569:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 10:13:54.914 ionicRiverLevels[10569:70b] Unlimited access to network resources
+2014-05-14 10:13:54.926 ionicRiverLevels[10569:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-14 10:13:54.926 ionicRiverLevels[10569:70b] [CDVTimer][statusbar] 0.429988ms
+2014-05-14 10:13:54.927 ionicRiverLevels[10569:70b] [CDVTimer][TotalPluginStartup] 0.746012ms
+2014-05-14 10:13:54.982 ionicRiverLevels[10569:70b] Resetting plugins due to page load.
+2014-05-14 10:13:55.102 ionicRiverLevels[10569:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-14 10:17:39.514 ionicRiverLevels[10931:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 10:17:39.520 ionicRiverLevels[10931:70b] Unlimited access to network resources
+2014-05-14 10:17:39.531 ionicRiverLevels[10931:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-14 10:17:39.532 ionicRiverLevels[10931:70b] [CDVTimer][statusbar] 0.420988ms
+2014-05-14 10:17:39.532 ionicRiverLevels[10931:70b] [CDVTimer][TotalPluginStartup] 0.730038ms
+2014-05-14 10:17:39.583 ionicRiverLevels[10931:70b] Resetting plugins due to page load.
+2014-05-14 10:17:39.692 ionicRiverLevels[10931:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-14 10:18:38.643 ionicRiverLevels[11133:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 10:18:38.648 ionicRiverLevels[11133:70b] Unlimited access to network resources
+2014-05-14 10:18:38.660 ionicRiverLevels[11133:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-14 10:18:38.660 ionicRiverLevels[11133:70b] [CDVTimer][statusbar] 0.483990ms
+2014-05-14 10:18:38.661 ionicRiverLevels[11133:70b] [CDVTimer][TotalPluginStartup] 0.896990ms
+2014-05-14 10:18:38.716 ionicRiverLevels[11133:70b] Resetting plugins due to page load.
+2014-05-14 10:18:38.849 ionicRiverLevels[11133:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-14 11:55:06.292 ionicRiverLevels[11454:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 11:55:06.298 ionicRiverLevels[11454:70b] Unlimited access to network resources
+2014-05-14 11:55:06.311 ionicRiverLevels[11454:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-14 11:55:06.311 ionicRiverLevels[11454:70b] [CDVTimer][statusbar] 0.388026ms
+2014-05-14 11:55:06.311 ionicRiverLevels[11454:70b] [CDVTimer][TotalPluginStartup] 0.684023ms
+2014-05-14 11:55:06.367 ionicRiverLevels[11454:70b] Resetting plugins due to page load.
+2014-05-14 11:55:06.478 ionicRiverLevels[11454:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-14 19:05:00.818 ionicRiverLevels[12152:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 19:05:00.824 ionicRiverLevels[12152:70b] Unlimited access to network resources
+2014-05-14 19:05:00.838 ionicRiverLevels[12152:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-14 19:05:00.838 ionicRiverLevels[12152:70b] [CDVTimer][statusbar] 0.357032ms
+2014-05-14 19:05:00.839 ionicRiverLevels[12152:70b] [CDVTimer][TotalPluginStartup] 0.652969ms
+2014-05-14 19:05:00.892 ionicRiverLevels[12152:70b] Resetting plugins due to page load.
+2014-05-14 19:05:01.019 ionicRiverLevels[12152:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-14 20:28:47.090 ionicRiverLevels[14762:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 20:28:47.095 ionicRiverLevels[14762:70b] Unlimited access to network resources
+2014-05-14 20:28:47.108 ionicRiverLevels[14762:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-14 20:28:47.108 ionicRiverLevels[14762:70b] [CDVTimer][statusbar] 0.378013ms
+2014-05-14 20:28:47.108 ionicRiverLevels[14762:70b] [CDVTimer][TotalPluginStartup] 0.666022ms
+2014-05-14 20:28:47.163 ionicRiverLevels[14762:70b] Resetting plugins due to page load.
+2014-05-14 20:28:47.351 ionicRiverLevels[14762:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-14 21:11:00.052 ionicRiverLevels[15029:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 21:11:00.057 ionicRiverLevels[15029:70b] Unlimited access to network resources
+2014-05-14 21:11:00.069 ionicRiverLevels[15029:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-14 21:11:00.070 ionicRiverLevels[15029:70b] [CDVTimer][statusbar] 0.339985ms
+2014-05-14 21:11:00.070 ionicRiverLevels[15029:70b] [CDVTimer][TotalPluginStartup] 0.642955ms
+2014-05-14 21:11:00.123 ionicRiverLevels[15029:70b] Resetting plugins due to page load.
+2014-05-14 21:11:00.288 ionicRiverLevels[15029:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-16 10:37:42.156 ionicRiverLevels[15424:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-16 10:37:42.162 ionicRiverLevels[15424:70b] Unlimited access to network resources
+2014-05-16 10:37:42.238 ionicRiverLevels[15424:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-16 10:37:42.238 ionicRiverLevels[15424:70b] [CDVTimer][statusbar] 0.355005ms
+2014-05-16 10:37:42.238 ionicRiverLevels[15424:70b] [CDVTimer][TotalPluginStartup] 0.662982ms
+2014-05-16 10:37:42.297 ionicRiverLevels[15424:70b] Resetting plugins due to page load.
+2014-05-16 10:37:42.507 ionicRiverLevels[15424:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-16 10:43:02.895 ionicRiverLevels[15644:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-16 10:43:02.900 ionicRiverLevels[15644:70b] Unlimited access to network resources
+2014-05-16 10:43:02.911 ionicRiverLevels[15644:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-16 10:43:02.912 ionicRiverLevels[15644:70b] [CDVTimer][statusbar] 0.423968ms
+2014-05-16 10:43:02.912 ionicRiverLevels[15644:70b] [CDVTimer][TotalPluginStartup] 0.788987ms
+2014-05-16 10:43:02.964 ionicRiverLevels[15644:70b] Resetting plugins due to page load.
+2014-05-16 10:43:03.131 ionicRiverLevels[15644:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-18 19:21:03.784 ionicRiverLevels[16806:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-18 19:21:03.793 ionicRiverLevels[16806:70b] Unlimited access to network resources
+2014-05-18 19:21:03.821 ionicRiverLevels[16806:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-18 19:21:03.822 ionicRiverLevels[16806:70b] [CDVTimer][statusbar] 0.487030ms
+2014-05-18 19:21:03.822 ionicRiverLevels[16806:70b] [CDVTimer][TotalPluginStartup] 0.865996ms
+2014-05-18 19:21:03.879 ionicRiverLevels[16806:70b] Resetting plugins due to page load.
+2014-05-18 19:21:04.066 ionicRiverLevels[16806:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-19 11:52:07.768 ionicRiverLevels[18100:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 11:52:07.774 ionicRiverLevels[18100:70b] Unlimited access to network resources
+2014-05-19 11:52:07.789 ionicRiverLevels[18100:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-19 11:52:07.790 ionicRiverLevels[18100:70b] [CDVTimer][statusbar] 0.310957ms
+2014-05-19 11:52:07.790 ionicRiverLevels[18100:70b] [CDVTimer][TotalPluginStartup] 0.604987ms
+2014-05-19 11:52:07.846 ionicRiverLevels[18100:70b] Resetting plugins due to page load.
+2014-05-19 11:52:08.036 ionicRiverLevels[18100:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-19 21:34:24.162 ionicRiverLevels[18668:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 21:34:24.168 ionicRiverLevels[18668:70b] Unlimited access to network resources
+2014-05-19 21:34:24.182 ionicRiverLevels[18668:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-19 21:34:24.183 ionicRiverLevels[18668:70b] [CDVTimer][statusbar] 0.358999ms
+2014-05-19 21:34:24.183 ionicRiverLevels[18668:70b] [CDVTimer][TotalPluginStartup] 0.683010ms
+2014-05-19 21:34:24.234 ionicRiverLevels[18668:70b] Resetting plugins due to page load.
+2014-05-19 21:34:24.431 ionicRiverLevels[18668:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-19 22:00:42.782 ionicRiverLevels[19106:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 22:00:42.787 ionicRiverLevels[19106:70b] Unlimited access to network resources
+2014-05-19 22:00:42.799 ionicRiverLevels[19106:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-19 22:00:42.800 ionicRiverLevels[19106:70b] [CDVTimer][statusbar] 0.366032ms
+2014-05-19 22:00:42.800 ionicRiverLevels[19106:70b] [CDVTimer][TotalPluginStartup] 0.687957ms
+2014-05-19 22:00:42.855 ionicRiverLevels[19106:70b] Resetting plugins due to page load.
+2014-05-19 22:00:43.027 ionicRiverLevels[19106:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-19 22:04:57.699 ionicRiverLevels[19328:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 22:04:57.705 ionicRiverLevels[19328:70b] Unlimited access to network resources
+2014-05-19 22:04:57.718 ionicRiverLevels[19328:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-19 22:04:57.718 ionicRiverLevels[19328:70b] [CDVTimer][statusbar] 0.360966ms
+2014-05-19 22:04:57.718 ionicRiverLevels[19328:70b] [CDVTimer][TotalPluginStartup] 0.667989ms
+2014-05-19 22:04:57.777 ionicRiverLevels[19328:70b] Resetting plugins due to page load.
+2014-05-19 22:04:57.946 ionicRiverLevels[19328:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-19 22:05:58.770 ionicRiverLevels[19701:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 22:05:58.775 ionicRiverLevels[19701:70b] Unlimited access to network resources
+2014-05-19 22:05:58.791 ionicRiverLevels[19701:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-19 22:05:58.791 ionicRiverLevels[19701:70b] [CDVTimer][statusbar] 0.480056ms
+2014-05-19 22:05:58.791 ionicRiverLevels[19701:70b] [CDVTimer][TotalPluginStartup] 0.873029ms
+2014-05-19 22:05:58.843 ionicRiverLevels[19701:70b] Resetting plugins due to page load.
+2014-05-19 22:05:59.023 ionicRiverLevels[19701:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-19 22:07:14.287 ionicRiverLevels[19917:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 22:07:14.292 ionicRiverLevels[19917:70b] Unlimited access to network resources
+2014-05-19 22:07:14.306 ionicRiverLevels[19917:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-19 22:07:14.306 ionicRiverLevels[19917:70b] [CDVTimer][statusbar] 0.410020ms
+2014-05-19 22:07:14.307 ionicRiverLevels[19917:70b] [CDVTimer][TotalPluginStartup] 0.685036ms
+2014-05-19 22:07:14.363 ionicRiverLevels[19917:70b] Resetting plugins due to page load.
+2014-05-19 22:07:14.539 ionicRiverLevels[19917:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-22 13:34:14.300 ionicRiverLevels[22785:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-22 13:34:14.305 ionicRiverLevels[22785:70b] Unlimited access to network resources
+2014-05-22 13:34:14.320 ionicRiverLevels[22785:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-22 13:34:14.320 ionicRiverLevels[22785:70b] [CDVTimer][statusbar] 0.383019ms
+2014-05-22 13:34:14.320 ionicRiverLevels[22785:70b] [CDVTimer][TotalPluginStartup] 0.715971ms
+2014-05-22 13:34:14.368 ionicRiverLevels[22785:70b] Resetting plugins due to page load.
+2014-05-22 13:34:14.550 ionicRiverLevels[22785:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-05-28 17:31:01.609 ionicRiverLevels[617:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-28 17:31:01.627 ionicRiverLevels[617:70b] Unlimited access to network resources
+2014-05-28 17:31:01.748 ionicRiverLevels[617:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-28 17:31:01.749 ionicRiverLevels[617:70b] [CDVTimer][statusbar] 0.430048ms
+2014-05-28 17:31:01.749 ionicRiverLevels[617:70b] [CDVTimer][TotalPluginStartup] 0.760972ms
+2014-05-28 17:31:01.844 ionicRiverLevels[617:70b] Resetting plugins due to page load.
+2014-05-28 17:31:02.094 ionicRiverLevels[617:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
+2014-06-28 21:31:51.022 ionicRiverLevels[5691:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-28 21:31:51.048 ionicRiverLevels[5691:70b] Unlimited access to network resources
+2014-06-28 21:31:51.063 ionicRiverLevels[5691:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-28 21:31:51.064 ionicRiverLevels[5691:70b] [CDVTimer][statusbar] 0.398993ms
+2014-06-28 21:31:51.064 ionicRiverLevels[5691:70b] [CDVTimer][TotalPluginStartup] 0.720024ms
+2014-06-28 21:31:51.123 ionicRiverLevels[5691:70b] Resetting plugins due to page load.
+2014-06-28 21:31:51.308 ionicRiverLevels[5691:70b] Finished load of: file:///Users/joshwood/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACF089CB-E27A-42B8-AF11-3E5E953DD53D/ionicRiverLevels.app/www/index.html#/app/states
