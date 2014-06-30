@@ -1,6 +1,6 @@
 ## Using this project
 
-First of all you need to install NodeJS.
+First of all you need to install [NodeJS](http://nodejs.org).
 
 Once you have installed NodeJS you can use `npm` to install `cordova` and `ionic` by running:
 
@@ -21,7 +21,7 @@ $ npm install
 
 This will install the project specific dependencies.
 
-To emulate, run the following (try just running emulate first - you will have platform installed already because it is is the repo, i'm not sure how this will behave on someone elses computer)
+To emulate, run the following (try just running emulate first - you will have platform installed already because it is in the repo, i'm not sure how this will behave on someone elses computer)
 
 ```bash
 $ ionic platform add ios
