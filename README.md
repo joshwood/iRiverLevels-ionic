@@ -34,3 +34,5 @@ To start a local development server to allow for straight HTML/JS development ru
 $ grunt server
 ```
 This will start a local server on port 9000. Any changes made to files in the `www` directory will automatically be reloaded into the browser.
+
+Another option would be to simply open the platforms/ios/ionicRiverLevels.xcodeproj file. This should launch xcode  
